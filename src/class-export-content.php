@@ -1,7 +1,8 @@
 <?php
 
+namespace Zenx5\Bootstrap;
+
 use Naucon\File\FileReader;
-use Naucon\File\File;
 
 class Content
 {

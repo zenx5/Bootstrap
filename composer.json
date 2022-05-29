@@ -2,7 +2,7 @@
   "name": "zenx5/bootstrap",
   "description": "Package para hacer referencia a los archivos y clases de bootstrap en php",
   "version": "1.0",
-  "type": "package",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
