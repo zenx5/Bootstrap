@@ -1,0 +1,26 @@
+{
+  "name": "zenx5/bootstrap",
+  "description": "Package para hacer referencia a los archivos y clases de bootstrap en php",
+  "version": "1.0",
+  "type": "package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Octavio Martinez",
+      "email": "omartinez1618@gmail.com",
+      "homepage": "https://github.com/zenx5",
+      "role": "Backend Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/class-export-content.php"
+    ],
+    "psr-4": {
+      "Zenx5\\Bootstrap\\": "src/"
+    }
+  },
+  "require": {
+    "naucon/file": "^1.0"
+  }
+}
